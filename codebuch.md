@@ -25,8 +25,7 @@ initiierender Knoten
 erhaltender Knoten
 
 **relation**
-Beziehungsart zwischen den Akteuren
-weight definieren?
+Beziehungsart zwischen den Akteuren - weight definieren?
 
 # NODE-Attribute  
   
