@@ -25,7 +25,7 @@ initiierender Knoten
 erhaltender Knoten
 
 **relation**
-Beziehungsart zwischen den Akteuren - weight definieren?
+Beziehungsart zwischen den Akteuren: Bekannte, Mitglied (auch ehemalige Mitgliedschaft ist hier inkludiert), Unterstützer, Zusammenarbeit, Gründer oder Private Verbindung)
 
 # NODE-Attribute  
   
