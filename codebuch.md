@@ -26,9 +26,7 @@ erhaltender Knoten
 
 **relation**
 Beziehungsart zwischen den Akteuren
-1 = *work* Projektbasierte Beziehung: Bei einem gerichteten Netzwerk präferiert der Sender (erste Spalte) die Zusammenarbeit mit der genannten Zielperson (zweite Spalte).  
-2 = *help* Unterstützungsbeziehung: Bei einem gerichteten Netzwerk fragt der Sender (erste Spalte) die genannte Person (zweite Spalte) um Rat.  
-3 = *love* Liebesbeziehung zwischen Akteuren, codiert nach dem Attribut *complicated*
+weight definieren?
 
 # NODE-Attribute  
   
