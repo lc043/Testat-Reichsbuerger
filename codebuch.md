@@ -8,9 +8,9 @@ erstellt von Lisa Conzelmann (lc043@hdm-stuttgart.de)
 - Codebuch.md (Codierung der Datensätze)
 
 ## Ursprung und Datenerhebung
-Ich habe den Datensatz unter den Studierenden des dritten Semesters im Kurs Netzwerkanalyse erhoben. Die Daten sind nach der Erhebung nach einem Zufallsprinzip anonymisiert worden.
+Ich habe den Datensatz mithilfe von OSINT-Recherche erhoben. Als Quellen dienten die TAZ und Belltower.
 
-Das Netzwerk ist ein *gerichtetes two-mode Akteursnetzwerk*. Es wurden zwei getrennte Fragen erhoben:
+Das Netzwerk ist ein *gerichtetes two-mode Akteursnetzwerk*. Es wurden folgende Daten erhoben:
 
 # EDGE-Attribute
 
