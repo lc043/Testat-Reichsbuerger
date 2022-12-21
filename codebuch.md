@@ -8,15 +8,11 @@ erstellt von Lisa Conzelmann (lc043@hdm-stuttgart.de)
 - Codebuch.md (Codierung der Datensätze)
 
 ## Ursprung und Datenerhebung
-Ich habe den Datensatz mithilfe von OSINT-Recherche erhoben. Als Quellen dienten die TAZ und Belltower.
+Ich habe den Datensatz mithilfe von OSINT-Recherche erhoben. Als Quellen dienten vor allem die TAZ und Belltower, aber auch sonstige Online-Medien.
 
 Das Netzwerk ist ein *gerichtetes two-mode Akteursnetzwerk*. Es wurden folgende Daten erhoben:
 
 # EDGE-Attribute
-
-**id**  
-(eindeutige Codierung des Knoten)   
-codiert von 1 bis xx, jede ID entspricht einem Akteur, dh. einer realen Person oder einer Organisation
 
 **from**
 initiierender Knoten
@@ -25,12 +21,13 @@ initiierender Knoten
 erhaltender Knoten
 
 **relation**
-Beziehungsart zwischen den Akteuren: Bekannte, Mitglied (auch ehemalige Mitgliedschaft ist hier inkludiert), Unterstützer, Zusammenarbeit, Gründer oder Private Verbindung)
+Beziehungsart zwischen den Akteuren: Bekannte, Mitglied (auch ehemalige Mitgliedschaft ist hier inkludiert), Unterstützer, Zusammenarbeit, Gründer oder Private Verbindung
 
 # NODE-Attribute  
   
 **id**  
-Identische ID wie aus der edgelist zur Identifikation der Knoten von 1 bis xx.
+(eindeutige Codierung des Knoten)   
+codiert von 1 bis 33, jede ID entspricht einem Akteur, dh. einer realen Person oder einer Organisation
 
 **name**
 Vor- und Nachname einer Person oder Bezeichnung der Organisation
