@@ -3,8 +3,8 @@ Codebuch Stand 2022-12
 erstellt von Lisa Conzelmann (lc043@hdm-stuttgart.de)
 
 ## Inhalt
-- Edges.csv (Edgelist)
-- Nodes.csv (Nodelist)
+- 20221220-reichsbuerger-edges-lc043.csv (Edgelist)
+- 20221220-reichsbuerger-nodes-lc043.csv (Nodelist)
 - Codebuch.md (Codierung der Datensätze)
 
 ## Ursprung und Datenerhebung
@@ -27,7 +27,7 @@ Beziehungsart zwischen den Akteuren: Bekannte, Mitglied (auch ehemalige Mitglied
   
 **id**  
 (eindeutige Codierung des Knoten)   
-codiert von 1 bis 33, jede ID entspricht einem Akteur, dh. einer realen Person oder einer Organisation
+codiert mit Initialen von realen Personen oder Abkürzungen von Organisationen, jede ID entspricht einem Akteur
 
 **name**
 Vor- und Nachname einer Person oder Bezeichnung der Organisation
